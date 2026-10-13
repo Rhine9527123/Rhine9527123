@@ -64,6 +64,6 @@
 
 ---
 
-📫 &nbsp;[GitHub](https://github.com/Rhine9527123) &nbsp;·&nbsp; 【邮箱】
+📫 &nbsp;[GitHub](https://github.com/Rhine9527123) &nbsp;·&nbsp; logic.top
 
 </div>
