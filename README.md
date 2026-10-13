@@ -31,4 +31,5 @@
 ## 📫 联系方式
 
 - GitHub: [@Rhine9527123](https://github.com/Rhine9527123)
-- 邮箱：【待填】
+- 邮箱：logicjx@163.com
+- 个人主页：logicjx.top
